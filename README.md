@@ -4,6 +4,7 @@
 Case Study Title:Fuel cost calculation
 
 USN:24BCAR0485
+
 Name:Rafsha Jabin SM
      
 Algorithm: 
@@ -31,7 +32,9 @@ The total cost is: 416.0
 
      **Python Programming Tasks:**
 Case Study Title:Bonus eligibility based on salary
+
 USN:24BCAR0505
+
 Name:Shwetha kumari
 
 Algorithm:
@@ -62,7 +65,9 @@ You are eligible for bonus
     
     **Python Programming Tasks:**
 Case Study Title:Countdown timer using loop 
+
 USN:24BCAR0483
+
 Name:R Hemanth 
 
 Algorithm:
@@ -116,7 +121,9 @@ Time's up!!!!!!!
     
         **Python Programming Tasks:**
 Case Study Title:Bonus Calculation functions
+
 USN:24BCAR0488
+
 Name: Arpit Arjun Ray
 
 STEP 1:  Start
